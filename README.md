@@ -7,3 +7,5 @@ Soy Daniel, estudié ciencia política pero como no me gustó después estudié 
 ![](https://media.giphy.com/media/XKYjR0Hsjh5cs/giphy.gif)
 
 [Fuente: giphy](https://media.giphy.com/media/XKYjR0Hsjh5cs/giphy.gif)
+
+Victor estuvo aqui
