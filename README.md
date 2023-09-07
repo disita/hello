@@ -9,3 +9,8 @@ Soy Daniel, estudié ciencia política pero como no me gustó después estudié 
 [Fuente: giphy](https://media.giphy.com/media/XKYjR0Hsjh5cs/giphy.gif)
 
 Victor estuvo aqui
+
+<br>
+Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
+
+![](https://raw.githubusercontent.com/vcuspinera/UDG_MCD_Project_Dev_I/main/actividades/img/MCD_logo.png)
