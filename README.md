@@ -10,6 +10,8 @@ Soy Daniel, estudié ciencia política pero como no me gustó después estudié 
 
 Victor estuvo aqui
 
+La sección de Referencias de este repositorio las encontrarás en [este link](https://github.com/disita/hello/blob/main/docs/referencias.md).
+
 <br>
 Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
 
