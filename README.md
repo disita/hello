@@ -12,6 +12,8 @@ Victor estuvo aqui
 
 La sección de Referencias de este repositorio las encontrarás en [este link](https://github.com/disita/hello/blob/main/docs/referencias.md).
 
+_Note: Original idea by **[Tiffany Timbers](https://github.com/ttimbers/hello)**_
+
 <br>
 Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
 
